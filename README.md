@@ -1,1 +1,1 @@
-# terraform-templates
+# Terraform Templates
